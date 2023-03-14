@@ -2,6 +2,8 @@
 
 Demonstration Video: https://youtu.be/U3qpVNBdowI
 
+![image](https://raw.githubusercontent.com/VIEKASH2001/Shaastra-IITM-Micro-Mouse-Maze/master/Model.jpg)
+
 This repository contains the code and documentation for the Micro Mouse Maze competition, held as part of the Shaastra Techfest at IIT Madras. The goal of this competition is to build a compact robot that can navigate through a maze and reach the center in the shortest possible time.
 
 ### Problem Statement
