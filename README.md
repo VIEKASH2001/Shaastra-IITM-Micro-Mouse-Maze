@@ -1,6 +1,8 @@
-# Shaastra-IITM-Micro-Mouse-Maze
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Shaastra+IITM+Micro+Mouse+Maze" alt="Typing SVG" />
+</a>
 
-Demonstration Video: https://youtu.be/U3qpVNBdowI
+**Demonstration Video:** https://youtu.be/U3qpVNBdowI
 
 ![image](https://raw.githubusercontent.com/VIEKASH2001/Shaastra-IITM-Micro-Mouse-Maze/master/Model.jpg)
 
